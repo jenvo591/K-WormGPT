@@ -9,7 +9,7 @@ Working LIC: 1041161161121155847475656495645494949455750454954534550484611010311
 3. apt install git
 4. git clone https://github.com/MrSanZz/KawaiiGPT
 5. cd KawaiiGPT
-6. pip3 install -r requirements.txt
+6. pip3 install -r requirements.txt // python3 install.py
 7. python3 kawai.py
 
 # Use (Termux)
@@ -18,5 +18,5 @@ Working LIC: 1041161161121155847475656495645494949455750454954534550484611010311
 3. pkg install git
 4. git clone https://github.com/MrSanZz/KawaiiGPT
 5. cd KawaiiGPT
-6. pip3 install -r requirements.txt
+6. pip3 install -r requirements.txt // python3 install.py
 7. python3 kawai.py
