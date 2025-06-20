@@ -3,6 +3,8 @@
 <h2><strong>You don't need an Api Key!</strong></h2>
 Working LIC: 10411611611211558474756505050454949494557504549545345504846110103114111107451021141011014697112112
 
+If you found ALSA lib error please type disable-voice before asking question
+
 # Use (Linux Distro)
 1. apt-get update && apt-get upgrade (if not updated and upgraded)
 2. apt install python3 && apt install python3-pip
