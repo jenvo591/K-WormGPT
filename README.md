@@ -5,6 +5,8 @@ Working LIC: 1041161161121155847475650505045494949455750454954534550484611010311
 
 If you found ALSA lib error please type disable-voice before asking question
 
+```Forum: ``` https://t.me/kawaiigpt_official
+
 # Use (Linux Distro)
 1. apt-get update && apt-get upgrade (if not updated and upgraded)
 2. apt install python3 && apt install python3-pip
