@@ -1,7 +1,7 @@
 <center><img src="https://raw.githubusercontent.com/MrSanZz/KawaiiGPT/refs/heads/main/Screenshot_2025-06-19-03-16-46-410_tech.ula.jpg" width="100%" height="60%"></center>
 
 <h2><strong>You don't need an Api Key!</strong></h2>
-Working LIC: 7419119125692239794794293530565930355695530302616695565412302616191
+Working LIC: 1757757763937687395095047261155136224755355355324737982247553451551247233611240367729193388254247267193464464240680639639
 
 If you found ALSA lib error please type disable-voice before asking question
 
