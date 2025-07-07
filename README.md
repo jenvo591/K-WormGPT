@@ -25,5 +25,7 @@ If you found ALSA lib error please type disable-voice before asking question
 6. pip3 install -r requirements.txt or python3 install.py
 7. python3 kawai.py
 
+*Have fun! (support me with star ⭐ !!)*
+
 # ⚠ Warning ⚠
 Changing or selling this tools is prohibited and not allowed!. ⚠
