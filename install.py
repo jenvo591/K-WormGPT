@@ -1,7 +1,11 @@
-import os
-import requests
-import subprocess
-
+try:
+    import os
+    import requests
+    import subprocess
+except ModuleNotFoundError as e:
+    import os
+    module = str(e).replace(" No module named'", '').replace("'", '')
+    os.system(f'python3 -m pip install {module} && python3 install.py')
 
 repo_owner = 'MrSanZz'
 repo_name = 'KawaiiGPT'
