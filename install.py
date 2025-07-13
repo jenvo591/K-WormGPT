@@ -59,7 +59,7 @@ def main():
     print('='*4+'Updating package'+'='*4)
     up_package() if input('[~] Update package? Y/N: ').lower() == 'y' else print("[+] Skipping package update..")
     print('='*4+'Checking update'+'='*4)
-    check_for_updates()
+    #check_for_updates()
     print('='*4+'Downloading module'+'='*4)
     for modules in module:
         try:
