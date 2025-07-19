@@ -12,7 +12,7 @@ repo_name = 'KawaiiGPT'
 files_to_check = ['kawai.py', 'requirements.txt']
 package_termux = ['pkg update && pkg upgrade -y', 'pkg install git', 'pkg install python3']
 package_linux = ['apt-get update && apt-get upgrade', 'apt install python3 && apt install python3-pip', 'apt install git']
-module = ['requests', 'fake_useragent', 'edge_tts', 'deep_translator', 'pydub', 'simpleaudio', 'regex', 'colorama', 'pycryptodome', 'pexpect']
+module = ['requests', 'fake_useragent', 'edge_tts', 'deep_translator', 'sounddevice', 'soundfile', 'regex', 'colorama', 'pycryptodome', 'pexpect']
 
 def get_latest_release():
     url = f'https://api.github.com/repos/{repo_owner}/{repo_name}/releases/latest'
@@ -58,8 +58,6 @@ def up_package():
 def main():
     print('='*4+'Updating package'+'='*4)
     up_package() if input('[~] Update package? Y/N: ').lower() == 'y' else print("[+] Skipping package update..")
-    print('='*4+'Checking update'+'='*4)
-    #check_for_updates()
     print('='*4+'Downloading module'+'='*4)
     for modules in module:
         try:
