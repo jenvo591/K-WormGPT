@@ -41,7 +41,7 @@ Me: Okay, many people asking this question, the reason why i obfuscate the
 
 Me: Seriously, i'm enough with this question over time. No, there is no RAT, Spyware,
     Malware, Ransom, etc. Why would i do that? because it's free and obfuscated
-    doesn't mean i wanna trap you all, **i wouldn't***. If that wasn't from me
+    doesn't mean i wanna trap you all, **i wouldn't**. If that wasn't from me
     don't run it or you would fall in a trap. 
 
 "But why is it obfuscated?"
@@ -56,6 +56,8 @@ Me: Like what i said earlier, "I want to avoid recoding and renaming which ends 
 Conclusion:
 I never put any malicious code or even malicious software into my code/tools
 if it's obfuscated that means I just want to avoid recode+sell people.
+
+TotalVirus(): https://www.virustotal.com/gui/file/bf049a183dd6be7c980e063f42a5549d7b78683500d20ad10fd2f5a172c9b529
 
 Best regards, MrSanZz
 Made with 🔥
