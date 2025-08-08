@@ -59,5 +59,5 @@ if it's obfuscated that means I just want to avoid recode+sell people.
 
 TotalVirus(): https://www.virustotal.com/gui/file/bf049a183dd6be7c980e063f42a5549d7b78683500d20ad10fd2f5a172c9b529
 
-Best regards, MrSanZz
-Made with 🔥
+
+have fucking fun !!  🔥
